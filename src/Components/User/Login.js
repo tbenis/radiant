@@ -9,7 +9,7 @@ export default function Login(props) {
     return (<>
     
     <Header />
-    <h1> Login </h1>
+    <h1> Benis Login </h1>
     <p> Form Goes Here </p>
 
     <Form>
