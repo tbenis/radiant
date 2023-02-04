@@ -1,4 +1,6 @@
 
+import "./public.css"
+
 export default function Footer(props) {
     return (<>
     

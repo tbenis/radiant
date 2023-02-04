@@ -1,4 +1,6 @@
 
+import "./public.css"
+
 export default function Header(props) {
     return (<>
     

@@ -1,5 +1,7 @@
 import Header from "../Public/Header"
 import Footer from "../Public/Footer"
+import "./login.css"
+
 
 export default function Login(props) {
     return (<>

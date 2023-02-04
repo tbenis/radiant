@@ -1,6 +1,8 @@
 import Header from "../Public/Header"
 import Footer from "../Public/Footer"
 
+import "./profile.css"
+
 
 export default function Profile(props) {
     return (<>

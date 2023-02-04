@@ -1,5 +1,6 @@
 import Header from "../Public/Header"
 import Footer from "../Public/Footer"
+import "./home.css"
 
 export default function Home(props) {
     return (<>
