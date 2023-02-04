@@ -7,7 +7,7 @@ export default function Post(props) {
     
     <Header />
 
-    <h1> Post Details </h1>    
+    <h1> Sandra Post Details </h1>    
     <Footer/>
     
     </>)
